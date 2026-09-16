@@ -12,7 +12,15 @@
 </p>
 
 <p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MinakowDev&theme=dark" alt="GitHub profile contribution summary" />
+</p>   
+
+<p align="center">
   <img src="https://github-readme-streak-stats-eight.vercel.app/?user=MinakowDev&theme=dark" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=MinakowDev&label=PROFILE%20VIEWS&color=36BCF7&style=flat-square" alt="Views" />
 </p>
 
 <p align="center">
