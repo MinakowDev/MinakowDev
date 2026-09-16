@@ -1,7 +1,7 @@
 <div align="center">
 ![wavey](https://raw.githubusercontent.com/FragileDeviations/FragileDeviations/main/wavey.gif) 
 # im Ed
-<div align="center">
+</div>
 ## My GitHub Stats :trophy:
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=MinakowDev&theme=radical" alt="Streak" />
