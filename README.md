@@ -1,5 +1,5 @@
 <div align="center">
-# ![wavey](https://raw.githubusercontent.com/FragileDeviations/FragileDeviations/main/wavey.gif) im Ed
+![wavey](https://raw.githubusercontent.com/FragileDeviations/FragileDeviations/main/wavey.gif) # im Ed
 <div align="center">
 ## My GitHub Stats :trophy:
 <p align="center">
