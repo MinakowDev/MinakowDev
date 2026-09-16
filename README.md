@@ -7,15 +7,12 @@
 ## My GitHub Stats :trophy:
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MinakowDev&theme=radical" alt="Streak" />
+  <img src="https://github-stats-extended.vercel.app/api?username=MinakowDev&show_icons=true&theme=dark&count_private=true" height="170"/>
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=MinakowDev&layout=compact&theme=dark"/>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MinakowDev&theme=radical" alt="GitHub profile contribution summary" />
-</p>    
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=MinakowDev&label=PROFILE%20VIEWS&color=36BCF7&style=flat-square" alt="Views" />
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=MinakowDev&theme=dark" />
 </p>
 
 <p align="center">
