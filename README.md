@@ -23,10 +23,6 @@
   <img src="https://komarev.com/ghpvc/?username=MinakowDev&label=PROFILE%20VIEWS&color=36BCF7&style=flat-square" alt="Views" />
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Code%20Time-3817%20hrs%2020%20mins-blue?style=flat" alt="Views" />
-</p>
-
 ## Feedback
 
 <a href="https://t.me/wasitfallen" target="_blank"><img src="https://img.shields.io/badge/Telegram-%40wasitfallen-28a8ea"></a>
